@@ -1,0 +1,6 @@
+/.env
+/node_modules
+/package-lock.json
+/clinet/node_modules
+/clinet/package-lock.json
+/clinet/.env
